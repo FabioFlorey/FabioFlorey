@@ -16,7 +16,7 @@ In the domain of RPA I use [<ins>**UiPath**</ins>][CERTIFICATE] and <ins>**Autom
         "First Name": "Fabio Craig Wimmer",
         "Last Name": "Florey",
         "I live in": "Cinisello Balsamo",
-        "I work in": "Milan"
+        "I work in": "Remote/Milan"
       },
       "geometry": {
         "type": "Point",
