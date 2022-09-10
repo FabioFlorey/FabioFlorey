@@ -6,8 +6,6 @@ I mainly work on projects related to <ins>**automation**</ins> and <ins>**RPA**<
 In the field of automation I write mainly  in <ins>**Python**</ins> and <ins>**C#**</ins>. <br>
 In the domain of RPA I use [<ins>**UiPath**</ins>][CERTIFICATE] and <ins>**Automation Anywhere**</ins>.
 
-I speak italian and english.
-
 ```geojson
 {
   "type": "FeatureCollection",
