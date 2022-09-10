@@ -34,11 +34,11 @@ In the domain of RPA I use [<ins>**UiPath**</ins>][CERTIFICATE] and <ins>**Autom
         "coordinates": [
           [
             8.6,
-            45.6
+            46.0
           ],
           [
             8.6,
-            45.6
+            46.0
           ]
         ]
       }
