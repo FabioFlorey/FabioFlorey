@@ -66,4 +66,4 @@ I speak italian and english.
 }
 ```
 
-[CERTIFICATE]: ./docs/images/
+[CERTIFICATE]: /docs/images/UiPath%20Certified%20Advanced%20RPA%20Developer%20v1.0%20certificate.pdf
