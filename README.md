@@ -4,7 +4,7 @@ I'm <ins>**Fabio**</ins> a <ins>**Senior Software Developer**</ins> based in <in
 
 I mainly work on projects related to <ins>**automation**</ins> and <ins>**RPA**</ins>.<br>
 In the field of automation I write mainly  in <ins>**Python**</ins> and <ins>**C#**</ins>. <br>
-In the domain of RPA I use <ins>**UiPath**</ins>[^1] and <ins>**Automation Anywhere**</ins>.
+In the domain of RPA I use [<ins>**UiPath**</ins>][CERTIFICATE] and <ins>**Automation Anywhere**</ins>.
 
 I speak italian and english.
 
@@ -65,20 +65,5 @@ I speak italian and english.
   ]
 }
 ```
-[^1]: ![UiPath Certified Advanced RPA Developer_rgb.png](UiPath Certified Advanced RPA Developer_rgb.png)
 
-
-<!--
-**FabioFlorey/FabioFlorey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[CERTIFICATE]: ./docs/images/
