@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/FabioFlorey/jelly">
   <img src="https://github.com/user-attachments/assets/97892e31-ec44-4deb-a8cf-3343d8739c4a" width="100%">
 </a>
-<sup>Browser instrumentation for agents.</sup>
+<sup>Browser instrumentation for agents. <b><a href="https://github.com/FabioFlorey/jelly#2-quickstart">Try Jelly now!</b></a></sup>
 <p><b><code>MCP</code> <code>Browser Automation</code></sub></b></p>
 </td>
 </tr>
