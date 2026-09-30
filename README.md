@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <tr>
 <td width="50%" valign="top">
 <sub><b>001</b> / JELLY</sub>
-<a><img src="https://github.com/FabioFlorey/jelly/blob/main/docs/assets/og-jelly-chan.png" width="100%"></a>
+<a href="https://github.com/FabioFlorey/jelly"><img src="https://github.com/user-attachments/assets/97892e31-ec44-4deb-a8cf-3343d8739c4a" width="100%"></a>
 <sup>Browser instrumentation for agents.<b>Try Jelly Now!<b></sup>
 <p><code>MCP</code> <code>Browser Automation</code></sub></p>
 </td>
