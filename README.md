@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<sub><b>001</b> / JELLY</sub>
-<a href="https://github.com/FabioFlorey/jelly"><img src="https://github.com/user-attachments/assets/97892e31-ec44-4deb-a8cf-3343d8739c4a" width="100%"></a>
-<sup>Browser instrumentation for agents.<b>Try Jelly Now!<b></sup>
-<p><code>MCP</code> <code>Browser Automation</code></sub></p>
+<td width="50%" valign="top" align="center">
+<p align="left"><sub><b>001 //</b> JELLY</sub></p>
+<a href="https://github.com/FabioFlorey/jelly">
+  <img src="https://github.com/user-attachments/assets/97892e31-ec44-4deb-a8cf-3343d8739c4a" width="100%">
+</a>
+<sup>Browser instrumentation for agents.</sup>
+<p><b><code>MCP</code> <code>Browser Automation</code></sub></b></p>
 </td>
 </tr>
 </table>
