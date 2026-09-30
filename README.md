@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<sub><b>001</b> / JELLY</sub>
+<a><img src="https://github.com/FabioFlorey/jelly/blob/main/docs/assets/og-jelly-chan.png" width="100%"></a>
+<sup>Browser instrumentation for agents.<b>Try Jelly Now!<b></sup>
+<p><code>MCP</code> <code>Browser Automation</code></sub></p>
+</td>
+</tr>
+</table>
