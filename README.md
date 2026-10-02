@@ -21,8 +21,16 @@
 <sup>Browser instrumentation for agents. <b><a href="https://github.com/FabioFlorey/jelly#2-quickstart">Try Jelly now!</b></a></sup>
 <p><b><code>MCP</code> <code>Browser Automation</code></sub></b></p>
 </td>
+  <td width="50%" valign="top" align="center">
+<p align="left"><sub><b>002 // TAIYAKI</b></sub></p>
+<a href="https://github.com/FabioFlorey/taiyaki">
+  <img src="https://github.com/user-attachments/assets/c39703c5-5d6f-4b2f-91c0-e3af03aa9f12" width="100%">
+</a>
+<sup>A secret place <b><a href="https://github.com/FabioFlorey/taiyaki">Try Taiyaki now!</b></a></sup>
+<p><b><code>MCP</code> <code>???</code></sub></b></p>
+</td>
 </tr>
 </table>
-
+  
 <hr>
 <div align="right"><sup><i>Last Update: October 2026</i></sup></div>
